@@ -24,4 +24,5 @@ end
 
 def using_concat(a, b)
   c = a + b
+  
 end
